@@ -1,0 +1,15 @@
+# this is for the first file /etc/passw
+echo " "
+echo " "
+echo "content of /etc/passw"
+
+cat /etc/passwd
+
+#he content of the second file /etc/hosts
+echo " "
+echo " "
+
+echo " "
+echo "content of /etc/hosts "
+
+cat /etc/hosts
