@@ -1,4 +1,6 @@
-# this is for the first file /etc/passw
+#!/bin/bash
+
+# this for the first file /etc/passw
 echo " "
 echo " "
 echo "content of /etc/passw"
